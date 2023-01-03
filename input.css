@@ -4,15 +4,15 @@
 
 @font-face {
   font-family: 'SatoshiBold';
-  src: url('/fonts/Satoshi-Bold.otf');
+  src: url('../fonts/Satoshi-Bold.otf');
 }
 @font-face {
   font-family: 'SatoshiRegular';
-  src: url('/fonts/Satoshi-Regular.otf');
+  src: url('../fonts/Satoshi-Regular.otf');
 }
 @font-face {
   font-family: 'SatoshiMedium';
-  src: url('/fonts/Satoshi-Medium.otf');
+  src: url('../fonts/Satoshi-Medium.otf');
 }
 
 @layer components {
